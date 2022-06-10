@@ -1,9 +1,8 @@
+import AlbumSearch from "./components/Search";
 
 function App() {
   return (
-    <div className="App">
-      hello from app!
-    </div>
+    <AlbumSearch />
   );
 }
 
